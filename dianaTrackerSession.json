@@ -1,0 +1,33 @@
+{
+    "items": {
+        "coins": 126282696,
+        "Griffin Feather": 2750,
+        "Crown of Greed": 16,
+        "Washed-up Souvenir": 19,
+        "Chimera": 13,
+        "ChimeraLs": 4,
+        "Daedalus Stick": 5,
+        "DWARF_TURTLE_SHELMET": 125,
+        "CROCHET_TIGER_PLUSHIE": 117,
+        "ANTIQUE_REMEDIES": 127,
+        "ENCHANTED_ANCIENT_CLAW": 129,
+        "ANCIENT_CLAW": 0,
+        "MINOS_RELIC": 2,
+        "ENCHANTED_GOLD": 18565,
+        "ENCHANTED_IRON": 2545,
+        "Total Burrows": 13934,
+        "scavengerCoins": 48597696,
+        "fishCoins": 0,
+        "sessionTime": 140942644
+    },
+    "mobs": {
+        "Minos Inquisitor": 99,
+        "Minos Champion": 1221,
+        "Minotaur": 1463,
+        "Gaia Construct": 1603,
+        "Siamese Lynxes": 1143,
+        "Minos Hunter": 789,
+        "TotalMobs": 6318,
+        "Minos Inquisitor Ls": 408
+    }
+}

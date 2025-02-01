@@ -1,0 +1,72 @@
+{
+    "events": [
+        {
+            "year": 396,
+            "items": {
+                "coins": 59301486,
+                "Griffin Feather": 1311,
+                "Crown of Greed": 9,
+                "Washed-up Souvenir": 10,
+                "Chimera": 7,
+                "ChimeraLs": 2,
+                "Daedalus Stick": 3,
+                "DWARF_TURTLE_SHELMET": 51,
+                "CROCHET_TIGER_PLUSHIE": 50,
+                "ANTIQUE_REMEDIES": 51,
+                "ENCHANTED_ANCIENT_CLAW": 65,
+                "ANCIENT_CLAW": 0,
+                "MINOS_RELIC": 1,
+                "ENCHANTED_GOLD": 8696,
+                "ENCHANTED_IRON": 1223,
+                "Total Burrows": 6599,
+                "scavengerCoins": 23056486,
+                "fishCoins": 0,
+                "mayorTime": 67956244
+            },
+            "mobs": {
+                "Minos Inquisitor": 51,
+                "Minos Champion": 552,
+                "Minotaur": 682,
+                "Gaia Construct": 769,
+                "Siamese Lynxes": 540,
+                "Minos Hunter": 386,
+                "TotalMobs": 2980,
+                "Minos Inquisitor Ls": 198
+            }
+        },
+        {
+            "year": 398,
+            "items": {
+                "coins": 66981210,
+                "Griffin Feather": 1439,
+                "Crown of Greed": 7,
+                "Washed-up Souvenir": 9,
+                "Chimera": 6,
+                "ChimeraLs": 2,
+                "Daedalus Stick": 2,
+                "DWARF_TURTLE_SHELMET": 74,
+                "CROCHET_TIGER_PLUSHIE": 67,
+                "ANTIQUE_REMEDIES": 76,
+                "ENCHANTED_ANCIENT_CLAW": 64,
+                "ANCIENT_CLAW": 0,
+                "MINOS_RELIC": 1,
+                "ENCHANTED_GOLD": 9869,
+                "ENCHANTED_IRON": 1322,
+                "Total Burrows": 7335,
+                "scavengerCoins": 25541210,
+                "fishCoins": 0,
+                "mayorTime": 72986406
+            },
+            "mobs": {
+                "Minos Inquisitor": 48,
+                "Minos Champion": 669,
+                "Minotaur": 781,
+                "Gaia Construct": 834,
+                "Siamese Lynxes": 603,
+                "Minos Hunter": 403,
+                "TotalMobs": 3338,
+                "Minos Inquisitor Ls": 210
+            }
+        }
+    ]
+}
