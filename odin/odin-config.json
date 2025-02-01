@@ -1,0 +1,2887 @@
+[
+  {
+    "name": "Dungeon Requeue",
+    "enabled": false,
+    "settings": [
+      {
+        "Delay": 15.0
+      },
+      {
+        "Type": true
+      },
+      {
+        "Disable on leave/kick": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Blessing Display",
+    "enabled": true,
+    "settings": [
+      {
+        "Power Blessing": true
+      },
+      {
+        "Power Color": "#EF00FFFF"
+      },
+      {
+        "Time Blessing": true
+      },
+      {
+        "Time Color": "#00FFF8FF"
+      },
+      {
+        "Stone Blessing": false
+      },
+      {
+        "Stone Color": "#AAAAAAFF"
+      },
+      {
+        "Life Blessing": false
+      },
+      {
+        "Life Color": "#FF0000FF"
+      },
+      {
+        "Wisdom Blessing": true
+      },
+      {
+        "Wisdom Color": "#00FFFFFF"
+      },
+      {
+        "Display x": 1773.0
+      },
+      {
+        "Display y": 14.0
+      },
+      {
+        "Display scale": 2.699999939650297
+      },
+      {
+        "Display enabled": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Positional Messages",
+    "enabled": false,
+    "settings": [
+      {
+        "Only in Dungeons": true
+      },
+      {
+        "Pos Messages Strings": []
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Extra Stats",
+    "enabled": false,
+    "settings": [
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Key Highlight",
+    "enabled": false,
+    "settings": [
+      {
+        "Style": "Outline"
+      },
+      {
+        "Wither Color": "#000000CC"
+      },
+      {
+        "Blood Color": "#FF0000CC"
+      },
+      {
+        "Line Width": 2.0000000298023224
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Mimic",
+    "enabled": false,
+    "settings": [
+      {
+        "Toggle Mimic Message": true
+      },
+      {
+        "Mimic Message": "Mimic Killed!"
+      },
+      {
+        "Mimic Box": true
+      },
+      {
+        "Style": "Outline"
+      },
+      {
+        "Color": "#FF000066"
+      },
+      {
+        "Line Width": 2.0000000298023224
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Teammate Highlight",
+    "enabled": true,
+    "settings": [
+      {
+        "Mode": "Overlay"
+      },
+      {
+        "Line Width": 3.0000000447034836
+      },
+      {
+        "Style": "Filled"
+      },
+      {
+        "Show class": true
+      },
+      {
+        "Show highlight": false
+      },
+      {
+        "Show name": true
+      },
+      {
+        "Name Style": "Plain Text"
+      },
+      {
+        "Background Color": "#2323237F"
+      },
+      {
+        "Accent Color": "#55FFFFFF"
+      },
+      {
+        "Padding": 5.0
+      },
+      {
+        "Scale": 0.8
+      },
+      {
+        "Depth check": false
+      },
+      {
+        "In boss": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Terracotta Timer",
+    "enabled": false,
+    "settings": [
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Blood Camp",
+    "enabled": true,
+    "settings": [
+      {
+        "Blood Camp Assist": false
+      },
+      {
+        "Spawn Color": "#FF0000FF"
+      },
+      {
+        "Final Color": "#00AAAAFF"
+      },
+      {
+        "Position Color": "#00FF00FF"
+      },
+      {
+        "Box Size": 1.0
+      },
+      {
+        "Line": true
+      },
+      {
+        "Time Left": true
+      },
+      {
+        "Offset": 20.0
+      },
+      {
+        "Tick": 40.0
+      },
+      {
+        "Interpolation": true
+      },
+      {
+        "Watcher Bar": true
+      },
+      {
+        "Watcher Highlight": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Secret Clicked",
+    "enabled": true,
+    "settings": [
+      {
+        "Secret Boxes": true
+      },
+      {
+        "Style": "Filled"
+      },
+      {
+        "Color": "#02FF0051"
+      },
+      {
+        "Line Width": 2.0000000298023224
+      },
+      {
+        "Depth check": false
+      },
+      {
+        "Locked Color": "#FF000061"
+      },
+      {
+        "Time To Stay (seconds)": 1.0
+      },
+      {
+        "Use Real Size": true
+      },
+      {
+        "Box In Boss": false
+      },
+      {
+        "Item Boxes": true
+      },
+      {
+        "Secret Chime": true
+      },
+      {
+        "Sound": "note.pling"
+      },
+      {
+        "Custom Sound": "mob.blaze.hit"
+      },
+      {
+        "Volume": 0.6999999843537807
+      },
+      {
+        "Pitch": 1.9999999552965164
+      },
+      {
+        "Chime In Boss": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Dungeon Waypoints",
+    "enabled": false,
+    "settings": [
+      {
+        "Allow Edits": false
+      },
+      {
+        "Allow Midair": false
+      },
+      {
+        "Reach Color": "#00FFD56D"
+      },
+      {
+        "Allow Text Edit": true
+      },
+      {
+        "Render Title": true
+      },
+      {
+        "Global Depth": false
+      },
+      {
+        "Waypoint Type": "None"
+      },
+      {
+        "Color pallet": "Lime"
+      },
+      {
+        "Color": "#00FF13FF"
+      },
+      {
+        "Filled": false
+      },
+      {
+        "Through walls": true
+      },
+      {
+        "Use block size": true
+      },
+      {
+        "Size": 1.0
+      },
+      {
+        "Timer Type": "None"
+      },
+      {
+        "Debug Waypoint": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Leap Menu",
+    "enabled": true,
+    "settings": [
+      {
+        "Sorting": "A-Z Class (BetterMap)"
+      },
+      {
+        "Only Classes": false
+      },
+      {
+        "Color Style": false
+      },
+      {
+        "Background Color": "#232323E5"
+      },
+      {
+        "Rounded Rect": false
+      },
+      {
+        "Use Number Keys": false
+      },
+      {
+        "Top Left": 2
+      },
+      {
+        "Top Right": 3
+      },
+      {
+        "Bottom Left": 4
+      },
+      {
+        "Bottom right": 5
+      },
+      {
+        "Scale Factor": 1.0000000149011612
+      },
+      {
+        "Leap Helper": false
+      },
+      {
+        "Leap Helper Color": "#FFFFFFFF"
+      },
+      {
+        "Reset Leap Helper Delay": 30.0
+      },
+      {
+        "Leap Announce": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Puzzle Solvers",
+    "enabled": true,
+    "settings": [
+      {
+        "Water Board Solver": true
+      },
+      {
+        "Show Tracer": true
+      },
+      {
+        "Tracer Color First": "#00FF00FF"
+      },
+      {
+        "Tracer Color Second": "#FFAA00FF"
+      },
+      {
+        "Teleport Maze": true
+      },
+      {
+        "Color for one": "#00FF007F"
+      },
+      {
+        "Color for multiple": "#FFAA007F"
+      },
+      {
+        "Color for visited": "#FF00007F"
+      },
+      {
+        "Ice Fill Solver": true
+      },
+      {
+        "Ice Fill Color": "#FF55FFFF"
+      },
+      {
+        "Use Optimized Patterns": false
+      },
+      {
+        "Blaze Solver": false
+      },
+      {
+        "Blaze Solver Next Line": true
+      },
+      {
+        "Blaze Solver Lines": 1.0
+      },
+      {
+        "Blaze Style": "Outline"
+      },
+      {
+        "First Color": "#00FF00FF"
+      },
+      {
+        "Second Color": "#FFAA00FF"
+      },
+      {
+        "Other Color": "#FFFFFF4C"
+      },
+      {
+        "Box Width": 1.0
+      },
+      {
+        "Box Height": 2.0
+      },
+      {
+        "Send Complete": false
+      },
+      {
+        "Creeper Beams Solver": true
+      },
+      {
+        "Beam Style": "Filled Outline"
+      },
+      {
+        "Tracer": false
+      },
+      {
+        "Color Alpha": 0.7000000104308128
+      },
+      {
+        "Weirdos Solver": true
+      },
+      {
+        "Weirdos Color": "#00FF00FF"
+      },
+      {
+        "Weirdos Wrong Color": "#FF0000B2"
+      },
+      {
+        "Weirdos Style": "Filled Outline"
+      },
+      {
+        "Quiz Solver": true
+      },
+      {
+        "Quiz Color": "#00FF00BF"
+      },
+      {
+        "Quiz Depth": false
+      },
+      {
+        "Boulder Solver": true
+      },
+      {
+        "Show All Boulder Clicks": true
+      },
+      {
+        "Boulder Style": "Outline"
+      },
+      {
+        "Boulder Color": "#00FF007F"
+      },
+      {
+        "Boulder Line Width": 2.0000000298023224
+      },
+      {
+        "Puzzle Timers": true
+      },
+      {
+        "Send Puzzle Time": false
+      }
+    ]
+  },
+  {
+    "name": "Warp Cooldown",
+    "enabled": false,
+    "settings": [
+      {
+        "Announce Kick": false
+      },
+      {
+        "Kick Text": "Kicked!"
+      },
+      {
+        "Warp Timer Hud x": 925.0
+      },
+      {
+        "Warp Timer Hud y": 202.0
+      },
+      {
+        "Warp Timer Hud scale": 1.3499999698251486
+      },
+      {
+        "Warp Timer Hud enabled": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Map Info",
+    "enabled": true,
+    "settings": [
+      {
+        "Disable in boss": true
+      },
+      {
+        "300 Score Title": false
+      },
+      {
+        "Title Text": "\u0026c300 Score!"
+      },
+      {
+        "Print Score Time": true
+      },
+      {
+        "Paul Settings": "Automatic"
+      },
+      {
+        "Full Hud x": 401.0
+      },
+      {
+        "Full Hud y": 444.0
+      },
+      {
+        "Full Hud scale": 2.149999951943755
+      },
+      {
+        "Full Hud enabled": true
+      },
+      {
+        "Flip Crypts and Score": true
+      },
+      {
+        "Include Remaining": false
+      },
+      {
+        "Remaining Secrets": "Minimum"
+      },
+      {
+        "Width": 160.0
+      },
+      {
+        "Deaths": "Deaths"
+      },
+      {
+        "Hud Background": false
+      },
+      {
+        "Hud Margin": 0.0
+      },
+      {
+        "Hud Background Color": "#2323237F"
+      },
+      {
+        "Compact Secrets x": 10.0
+      },
+      {
+        "Compact Secrets y": 10.0
+      },
+      {
+        "Compact Secrets scale": 1.0
+      },
+      {
+        "Compact Secrets enabled": false
+      },
+      {
+        "Compact Include remaining": false
+      },
+      {
+        "Min Secrets": "Minimum"
+      },
+      {
+        "Secret Background": false
+      },
+      {
+        "Secret Margin": 0.0
+      },
+      {
+        "Secret Background Color": "#2323237F"
+      },
+      {
+        "Compact Score x": 10.0
+      },
+      {
+        "Compact Score y": 10.0
+      },
+      {
+        "Compact Score scale": 1.0
+      },
+      {
+        "Compact Score enabled": false
+      },
+      {
+        "Score Background": false
+      },
+      {
+        "Score Margin": 0.0
+      },
+      {
+        "Score Background Color": "#2323237F"
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Swap Sound",
+    "enabled": true,
+    "settings": [
+      {
+        "Only Over Block": true
+      },
+      {
+        "Sound": "note.pling"
+      },
+      {
+        "Custom Sound": "mob.blaze.hit"
+      },
+      {
+        "Volume": 0.6999999843537807
+      },
+      {
+        "Pitch": 1.9999999552965164
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Terminal Solver",
+    "enabled": true,
+    "settings": [
+      {
+        "Mode": "Custom GUI"
+      },
+      {
+        "Custom Gui Title": "Disabled"
+      },
+      {
+        "Custom Scale": 0.800000011920929
+      },
+      {
+        "Text Shadow": true
+      },
+      {
+        "Lock Rubix Solution": true
+      },
+      {
+        "Stop Tooltips": true
+      },
+      {
+        "Block Incorrect Clicks": true
+      },
+      {
+        "Middle Click GUI": true
+      },
+      {
+        "Stop Melody Solver": true
+      },
+      {
+        "Stop Rendering Wrong": false
+      },
+      {
+        "Stop Panes": true
+      },
+      {
+        "Stop Rubix": true
+      },
+      {
+        "Stop Starts With": true
+      },
+      {
+        "Stop Select": true
+      },
+      {
+        "Stop Melody": true
+      },
+      {
+        "Gap": 5.0
+      },
+      {
+        "Text Scale": 1.0
+      },
+      {
+        "Background Color": "#2D2D2DFF"
+      },
+      {
+        "Custom Gui Color": "#1A1A1ACC"
+      },
+      {
+        "Text Color": "#DCDCDCFF"
+      },
+      {
+        "Panes Color": "#08DD00FF"
+      },
+      {
+        "Rubix Color 1": "#19AA00FF"
+      },
+      {
+        "Rubix Color 2": "#18A400FF"
+      },
+      {
+        "Rubix Color -1": "#AA0000FF"
+      },
+      {
+        "Rubix Color -2": "#D20000FF"
+      },
+      {
+        "Order Color 1": "#48FF00FF"
+      },
+      {
+        "Order Color 2": "#2C9C00FF"
+      },
+      {
+        "Order Color 3": "#105A00FF"
+      },
+      {
+        "Starts With Color": "#10FF00FF"
+      },
+      {
+        "Select Color": "#33FF00FF"
+      },
+      {
+        "Melody Column Color": "#AA00AABF"
+      },
+      {
+        "Melody Row Color": "#00FF00BF"
+      },
+      {
+        "Melody Press Column Color": "#FDDA0DBF"
+      },
+      {
+        "Melody Press Color": "#00AAAABF"
+      },
+      {
+        "Melody Correct Row Color": "#FFFFFFBF"
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Terminal Times",
+    "enabled": true,
+    "settings": [
+      {
+        "Send Message": false
+      },
+      {
+        "Terminal Splits": true
+      },
+      {
+        "Use Real Time": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Melody Message",
+    "enabled": true,
+    "settings": [
+      {
+        "Send Melody Message": true
+      },
+      {
+        "Melody Message": "Meowlody"
+      },
+      {
+        "Melody Progress": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Tick Timers",
+    "enabled": false,
+    "settings": [
+      {
+        "Display in Ticks": false
+      },
+      {
+        "Display Symbol": true
+      },
+      {
+        "Show Prefix": true
+      },
+      {
+        "Necron Hud x": 10.0
+      },
+      {
+        "Necron Hud y": 10.0
+      },
+      {
+        "Necron Hud scale": 1.0
+      },
+      {
+        "Necron Hud enabled": false
+      },
+      {
+        "Goldor Hud x": 10.0
+      },
+      {
+        "Goldor Hud y": 10.0
+      },
+      {
+        "Goldor Hud scale": 1.0
+      },
+      {
+        "Goldor Hud enabled": false
+      },
+      {
+        "Start timer": false
+      },
+      {
+        "Storm Pad Hud x": 1258.0
+      },
+      {
+        "Storm Pad Hud y": 715.0
+      },
+      {
+        "Storm Pad Hud scale": 2.4499999452382326
+      },
+      {
+        "Storm Pad Hud enabled": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Inactive Waypoints",
+    "enabled": false,
+    "settings": [
+      {
+        "Show Terminals": true
+      },
+      {
+        "Show Devices": true
+      },
+      {
+        "Show Levers": true
+      },
+      {
+        "Render Text": true
+      },
+      {
+        "Render Beacon": false
+      },
+      {
+        "Render Box": true
+      },
+      {
+        "Hide Default": true
+      },
+      {
+        "Style": "Outline"
+      },
+      {
+        "Color": "#001AFF7F"
+      },
+      {
+        "Line Width": 2.0000000298023224
+      },
+      {
+        "Depth check": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Wither Dragons",
+    "enabled": true,
+    "settings": [
+      {
+        "Dragon Timer": true
+      },
+      {
+        "Add Useless Decimal": true
+      },
+      {
+        "Dragon Timer HUD x": 823.0
+      },
+      {
+        "Dragon Timer HUD y": 369.0
+      },
+      {
+        "Dragon Timer HUD scale": 2.3999999463558197
+      },
+      {
+        "Dragon Timer HUD enabled": false
+      },
+      {
+        "Dragon Boxes": true
+      },
+      {
+        "Line Width": 1.0
+      },
+      {
+        "Dragon Title": true
+      },
+      {
+        "Dragon Tracer": false
+      },
+      {
+        "Tracer Width": 5.0
+      },
+      {
+        "Send Dragon Confirmation": true
+      },
+      {
+        "Send Dragon Time Alive": true
+      },
+      {
+        "Send Dragon Spawning": false
+      },
+      {
+        "Send Dragon Spawned": false
+      },
+      {
+        "Send Ice Sprayed": true
+      },
+      {
+        "Send Arrows Hit": true
+      },
+      {
+        "Dragon Health": false
+      },
+      {
+        "Dragon Priority": true
+      },
+      {
+        "Normal Power": 0.0
+      },
+      {
+        "Easy Power": 0.0
+      },
+      {
+        "Purple Solo Debuff": "Tank"
+      },
+      {
+        "Solo Debuff on All Splits": true
+      },
+      {
+        "Paul Buff": false
+      },
+      {
+        "Relic Announce": false
+      },
+      {
+        "Color": "Green"
+      },
+      {
+        "Relic Time": true
+      },
+      {
+        "Relic Spawn Ticks": 42.0
+      },
+      {
+        "Cauldron Highlight": false
+      },
+      {
+        "Relic Hud x": 10.0
+      },
+      {
+        "Relic Hud y": 10.0
+      },
+      {
+        "Relic Hud scale": 1.0
+      },
+      {
+        "Relic Hud enabled": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Terminal Simulator",
+    "enabled": false,
+    "settings": [
+      {
+        "Send Message": false
+      },
+      {
+        "Ping": 0.0
+      },
+      {
+        "Random Terminals": 1.0
+      },
+      {
+        "Open Start": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Terminal Sounds",
+    "enabled": false,
+    "settings": [
+      {
+        "Click Sounds": true
+      },
+      {
+        "Click Sound": "random.orb"
+      },
+      {
+        "Custom Click Sound": "mob.blaze.hit"
+      },
+      {
+        "Click Volume": 0.9999999776482582
+      },
+      {
+        "Click Pitch": 1.9999999552965164
+      },
+      {
+        "Complete Sounds": false
+      },
+      {
+        "Cancel Last Click": false
+      },
+      {
+        "Sound": "mob.blaze.hit"
+      },
+      {
+        "Custom Completion Sound": "mob.blaze.hit"
+      },
+      {
+        "Completion Volume": 0.9999999776482582
+      },
+      {
+        "Completion Pitch": 1.9999999552965164
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Arrow Align",
+    "enabled": false,
+    "settings": [
+      {
+        "Block Wrong Clicks": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "BPS Display",
+    "enabled": false,
+    "settings": [
+      {
+        "Display x": 10.0
+      },
+      {
+        "Display y": 10.0
+      },
+      {
+        "Display scale": 2.3999999463558197
+      },
+      {
+        "Display enabled": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Click Gui",
+    "enabled": false,
+    "settings": [
+      {
+        "Blur": false
+      },
+      {
+        "Enable notifications": true
+      },
+      {
+        "Gui Color": "#626262FF"
+      },
+      {
+        "Switch Type": true
+      },
+      {
+        "Shows HUDs in GUIs": true
+      },
+      {
+        "Force Hypixel": false
+      },
+      {
+        "Update Message": "Beta"
+      },
+      {
+        "Dev Messages": true
+      },
+      {
+        "Dev Size": true
+      },
+      {
+        "Dev Wings": false
+      },
+      {
+        "Dev Wings Color": "#FFFFFFFF"
+      },
+      {
+        "Dev Size X": 1.0
+      },
+      {
+        "Dev Size Y": 1.0
+      },
+      {
+        "Dev Size Z": 1.0
+      },
+      {
+        "Passcode": "odin"
+      },
+      {
+        "First join": true
+      },
+      {
+        "Last seen version": "1.2.5.beta15"
+      },
+      {
+        "DUNGEON,x": 9.0
+      },
+      {
+        "DUNGEON,y": 15.0
+      },
+      {
+        "DUNGEON,extended": true
+      },
+      {
+        "FLOOR7,x": 258.0
+      },
+      {
+        "FLOOR7,y": 15.0
+      },
+      {
+        "FLOOR7,extended": true
+      },
+      {
+        "RENDER,x": 506.0
+      },
+      {
+        "RENDER,y": 15.0
+      },
+      {
+        "RENDER,extended": true
+      },
+      {
+        "SKYBLOCK,x": 753.0
+      },
+      {
+        "SKYBLOCK,y": 21.0
+      },
+      {
+        "SKYBLOCK,extended": true
+      },
+      {
+        "NETHER,x": 1000.0
+      },
+      {
+        "NETHER,y": 19.0
+      },
+      {
+        "NETHER,extended": true
+      },
+      {
+        "Keybind": 157
+      }
+    ]
+  },
+  {
+    "name": "Custom Highlight",
+    "enabled": true,
+    "settings": [
+      {
+        "Starred Mob Highlight": true
+      },
+      {
+        "Shadow Assassin": true
+      },
+      {
+        "Mode": "Boxes"
+      },
+      {
+        "Color": "#02CCC1FF"
+      },
+      {
+        "Line Width": 2.0000000298023224
+      },
+      {
+        "Style": "Outline"
+      },
+      {
+        "Scan Delay": 20.0
+      },
+      {
+        "Depth Check": true
+      },
+      {
+        "Show Invisible": false
+      },
+      {
+        "List": []
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "CPS Display",
+    "enabled": false,
+    "settings": [
+      {
+        "Count Packets": false
+      },
+      {
+        "Button": "Both"
+      },
+      {
+        "Show Button": true
+      },
+      {
+        "Color": "#1516177F"
+      },
+      {
+        "Text Color": "#EFEFEFFF"
+      },
+      {
+        "Outline": true
+      },
+      {
+        "Display x": 1327.0
+      },
+      {
+        "Display y": 260.0
+      },
+      {
+        "Display scale": 1.9999999552965164
+      },
+      {
+        "Display enabled": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Dragon Hitboxes",
+    "enabled": false,
+    "settings": [
+      {
+        "Only M7": false
+      },
+      {
+        "Hitbox Color": "#00FFFFFF"
+      },
+      {
+        "Line Thickness": 3.0000000447034836
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Gyro Wand",
+    "enabled": false,
+    "settings": [
+      {
+        "Color": "#AA00AA7F"
+      },
+      {
+        "Thickness": 0.4000000059604645
+      },
+      {
+        "Smoothness": 40.0
+      },
+      {
+        "Show Cooldown": true
+      },
+      {
+        "Cooldown Color": "#FF0000FF"
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Name Changer",
+    "enabled": false,
+    "settings": [
+      {
+        "Nick": "\u0026zLFChim"
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Personal Dragon",
+    "enabled": false,
+    "settings": [
+      {
+        "Only F5": true
+      },
+      {
+        "Scale": 0.5899999868124723
+      },
+      {
+        "Horizontal": 0.0
+      },
+      {
+        "Vertical": 0.9000000134110451
+      },
+      {
+        "Degrees": 0.0
+      },
+      {
+        "Animation Speed": 0.4999999888241291
+      },
+      {
+        "Color": "#FFFFFFFF"
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Render Optimizer",
+    "enabled": true,
+    "settings": [
+      {
+        "Remove Falling Blocks": false
+      },
+      {
+        "Remove P5 Tentacles": true
+      },
+      {
+        "Hide Healer Fairy": true
+      },
+      {
+        "Hide Soul Weaver": true
+      },
+      {
+        "Hide Archer Bones": true
+      },
+      {
+        "Hide 0 Health": true
+      },
+      {
+        "Hide WitherMiner Name": true
+      },
+      {
+        "Hide Terracota Name": true
+      },
+      {
+        "Hide Non-Starred Mob Name": true
+      },
+      {
+        "Hide blazes": false
+      },
+      {
+        "Remove Explosion": false
+      },
+      {
+        "Hide P5 Particles": false
+      },
+      {
+        "Hide Heart Particles": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Server Hud",
+    "enabled": true,
+    "settings": [
+      {
+        "Ping": true
+      },
+      {
+        "TPS": true
+      },
+      {
+        "FPS": true
+      },
+      {
+        "Style": "Row"
+      },
+      {
+        "Display x": 1153.0
+      },
+      {
+        "Display y": 1051.0
+      },
+      {
+        "Display scale": 1.0
+      },
+      {
+        "Display enabled": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Waypoints",
+    "enabled": false,
+    "settings": [
+      {
+        "From Party Chat": true
+      },
+      {
+        "From All Chat": false
+      },
+      {
+        "Ping Location": false
+      },
+      {
+        "Ping Location Keybind": 0
+      },
+      {
+        "Send Pinged Location": false
+      },
+      {
+        "Ping Waypoint Time": 15000.0
+      },
+      {
+        "Ping Distance": 64.0
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Can Clip",
+    "enabled": false,
+    "settings": [
+      {
+        "Line": true
+      },
+      {
+        "Display x": 10.0
+      },
+      {
+        "Display y": 10.0
+      },
+      {
+        "Display scale": 1.0
+      },
+      {
+        "Display enabled": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Animations",
+    "enabled": true,
+    "settings": [
+      {
+        "Size": 0.0
+      },
+      {
+        "X": 0.0
+      },
+      {
+        "Y": 0.0
+      },
+      {
+        "Z": 0.0
+      },
+      {
+        "Yaw": 0.0
+      },
+      {
+        "Pitch": 0.0
+      },
+      {
+        "Roll": 0.0
+      },
+      {
+        "Speed": 0.0
+      },
+      {
+        "Ignore Haste": true
+      },
+      {
+        "Block Hit": true
+      },
+      {
+        "No Equip Reset": true
+      },
+      {
+        "No Swing": false
+      },
+      {
+        "No Terminator Swing": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Space Helmet",
+    "enabled": false,
+    "settings": [
+      {
+        "Speed": 250.0
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Block Overlay",
+    "enabled": true,
+    "settings": [
+      {
+        "Style": "Filled"
+      },
+      {
+        "Color": "#00000067"
+      },
+      {
+        "Line Width": 3.0000000447034836
+      },
+      {
+        "Depth check": true
+      },
+      {
+        "Line Smoothing": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Visual Words",
+    "enabled": false,
+    "settings": [
+      {
+        "wordsMap": {
+          "MageWrung": "Mage",
+          "autorouting": "Healer",
+          "freakyrex": "Berserk",
+          "ddimez": "Tank"
+        }
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "DVD",
+    "enabled": false,
+    "settings": [
+      {
+        "Box Width": 50.0
+      },
+      {
+        "Box Height": 50.0
+      },
+      {
+        "Rounded Corners": true
+      },
+      {
+        "Speed": 1.0
+      },
+      {
+        "Text": "ODVD"
+      },
+      {
+        "Text Scale": 1.5000000223517418
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Sidebar",
+    "enabled": false,
+    "settings": [
+      {
+        "Hud x": 1697.0
+      },
+      {
+        "Hud y": 331.0
+      },
+      {
+        "Hud scale": 2.249999949708581
+      },
+      {
+        "Hud enabled": false
+      },
+      {
+        "Custom Font": false
+      },
+      {
+        "Text Shadow": true
+      },
+      {
+        "Show Red Numbers": false
+      },
+      {
+        "Background Color": "#00000038"
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Hide Armor",
+    "enabled": false,
+    "settings": [
+      {
+        "Hide Armor": "Self"
+      },
+      {
+        "Helmet": true
+      },
+      {
+        "Self Chestplate": true
+      },
+      {
+        "Self Leggings": true
+      },
+      {
+        "Self Boots": true
+      },
+      {
+        "Self Skull": true
+      },
+      {
+        "Others Helmet": true
+      },
+      {
+        "Others Chestplate": true
+      },
+      {
+        "Others Leggings": true
+      },
+      {
+        "Others Boots": true
+      },
+      {
+        "Others Skull": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "No Cursor Reset",
+    "enabled": false,
+    "settings": [
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Auto Sprint",
+    "enabled": false,
+    "settings": [
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Blaze Attunement",
+    "enabled": true,
+    "settings": [
+      {
+        "Overlay Entities": false
+      },
+      {
+        "Outline Thickness": 5.0
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Chat Commands",
+    "enabled": true,
+    "settings": [
+      {
+        "Chat Emotes": true
+      },
+      {
+        "Party commands": true
+      },
+      {
+        "Guild commands": true
+      },
+      {
+        "Private commands": true
+      },
+      {
+        "Whitelist Only": false
+      },
+      {
+        "Warp": false
+      },
+      {
+        "Warp \u0026 pt (warptransfer)": true
+      },
+      {
+        "Coords (coords)": true
+      },
+      {
+        "Allinvite": true
+      },
+      {
+        "Odin": false
+      },
+      {
+        "Boop": true
+      },
+      {
+        "Coinflip (cf)": false
+      },
+      {
+        "Eightball": false
+      },
+      {
+        "Dice": false
+      },
+      {
+        "Party transfer (pt)": true
+      },
+      {
+        "Ping": true
+      },
+      {
+        "TPS": false
+      },
+      {
+        "FPS": true
+      },
+      {
+        "DT": true
+      },
+      {
+        "invite": true
+      },
+      {
+        "Racism": false
+      },
+      {
+        "Queue instance cmds": true
+      },
+      {
+        "Time": true
+      },
+      {
+        "Demote": true
+      },
+      {
+        "Promote": true
+      },
+      {
+        "Location": true
+      },
+      {
+        "Holding": true
+      },
+      {
+        "Blacklist": []
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Deployable Timer",
+    "enabled": false,
+    "settings": [
+      {
+        "Display x": 1710.0
+      },
+      {
+        "Display y": 34.0
+      },
+      {
+        "Display scale": 1.7999999597668648
+      },
+      {
+        "Display enabled": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Diana Helper",
+    "enabled": false,
+    "settings": [
+      {
+        "Guess Color": "#FFFFFF6E"
+      },
+      {
+        "Tracer": true
+      },
+      {
+        "Tracer Width": 1.0
+      },
+      {
+        "Tracer Line Color": "#FFFFFFFF"
+      },
+      {
+        "Tracer Burrows": true
+      },
+      {
+        "Style": "Filled Outline"
+      },
+      {
+        "Send Inq Msg": true
+      },
+      {
+        "Castle Warp": true
+      },
+      {
+        "Crypt Warp": true
+      },
+      {
+        "Stonks Warp": true
+      },
+      {
+        "DA Warp": false
+      },
+      {
+        "Museum Warp": true
+      },
+      {
+        "Wizard Warp": true
+      },
+      {
+        "Warp Keybind": -96
+      },
+      {
+        "Auto Warp": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Arrow hit",
+    "enabled": false,
+    "settings": [
+      {
+        "Reset on number": false
+      },
+      {
+        "Reset count": "999999"
+      },
+      {
+        "Reset on world load": true
+      },
+      {
+        "Reset on dragon spawn": true
+      },
+      {
+        "Display x": 941.0
+      },
+      {
+        "Display y": 564.0
+      },
+      {
+        "Display scale": 1.9999999552965164
+      },
+      {
+        "Display enabled": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Rag Axe",
+    "enabled": false,
+    "settings": [
+      {
+        "Alert": false
+      },
+      {
+        "Alert Cancelled": false
+      },
+      {
+        "Strength Gained": true
+      },
+      {
+        "Send to party": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Mob Spawn",
+    "enabled": false,
+    "settings": [
+      {
+        "Mob Name": "MobName"
+      },
+      {
+        "Sound Only": false
+      },
+      {
+        "Time between alerts": 3000.0
+      },
+      {
+        "All Chat": false
+      },
+      {
+        "Party Chat": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Splits",
+    "enabled": true,
+    "settings": [
+      {
+        "Splits Display HUD x": 6.0
+      },
+      {
+        "Splits Display HUD y": 78.0
+      },
+      {
+        "Splits Display HUD scale": 1.9499999564141035
+      },
+      {
+        "Splits Display HUD enabled": true
+      },
+      {
+        "Boss Entry Split": true
+      },
+      {
+        "Send Splits": true
+      },
+      {
+        "Send Only PB": false
+      },
+      {
+        "Numbers After Decimal": 2.0
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Wardrobe Keybinds",
+    "enabled": true,
+    "settings": [
+      {
+        "Unequip Keybind": 0
+      },
+      {
+        "Next Page Keybind": 0
+      },
+      {
+        "Previous Page Keybind": 0
+      },
+      {
+        "Delay": 0.0
+      },
+      {
+        "Disable Unequip": false
+      },
+      {
+        "Wardrobe 1": 15
+      },
+      {
+        "Wardrobe 2": 43
+      },
+      {
+        "Wardrobe 3": 4
+      },
+      {
+        "Wardrobe 4": 5
+      },
+      {
+        "Wardrobe 5": 6
+      },
+      {
+        "Wardrobe 6": 19
+      },
+      {
+        "Wardrobe 7": 33
+      },
+      {
+        "Wardrobe 8": 45
+      },
+      {
+        "Wardrobe 9": 46
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Invincibility Timer",
+    "enabled": true,
+    "settings": [
+      {
+        "Show Cooldown": true
+      },
+      {
+        "Announce Invincibility": false
+      },
+      {
+        "Timer Hud x": 892.0
+      },
+      {
+        "Timer Hud y": 507.0
+      },
+      {
+        "Timer Hud scale": 1.0
+      },
+      {
+        "Timer Hud enabled": false
+      },
+      {
+        "Show Prefix": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Item Highlight",
+    "enabled": false,
+    "settings": [
+      {
+        "Mode": "Overlay"
+      },
+      {
+        "Only Secrets": false
+      },
+      {
+        "Line Width": 1.0000000149011612
+      },
+      {
+        "Style": "Filled"
+      },
+      {
+        "Depth check": false
+      },
+      {
+        "Color Style": "Rarity"
+      },
+      {
+        "Rarity Alpha": 1.0
+      },
+      {
+        "Custom Color": "#FFFFFFFF"
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Player Display",
+    "enabled": false,
+    "settings": [
+      {
+        "Hide Armor": false
+      },
+      {
+        "Hide Food": false
+      },
+      {
+        "Hide Hearts": false
+      },
+      {
+        "Hide XP Level": false
+      },
+      {
+        "Hide Health": true
+      },
+      {
+        "Hide Mana": true
+      },
+      {
+        "Hide Overflow Mana": true
+      },
+      {
+        "Hide Defense": true
+      },
+      {
+        "Separate Overflow Mana": true
+      },
+      {
+        "Hide 0 Overflow": true
+      },
+      {
+        "Show Icons": true
+      },
+      {
+        "Thousands Separator": ""
+      },
+      {
+        "Health Hud x": 792.0
+      },
+      {
+        "Health Hud y": 940.0
+      },
+      {
+        "Health Hud scale": 1.0
+      },
+      {
+        "Health Hud enabled": true
+      },
+      {
+        "Health Color": "#FF0000FF"
+      },
+      {
+        "Mana Hud x": 994.0
+      },
+      {
+        "Mana Hud y": 989.0
+      },
+      {
+        "Mana Hud scale": 1.0
+      },
+      {
+        "Mana Hud enabled": true
+      },
+      {
+        "Mana Color": "#55FFFFFF"
+      },
+      {
+        "Overflow Mana Hud x": 10.0
+      },
+      {
+        "Overflow Mana Hud y": 10.0
+      },
+      {
+        "Overflow Mana Hud scale": 1.0
+      },
+      {
+        "Overflow Mana Hud enabled": false
+      },
+      {
+        "Overflow Mana Color": "#00AAAAFF"
+      },
+      {
+        "Defense Hud x": 932.0
+      },
+      {
+        "Defense Hud y": 969.0
+      },
+      {
+        "Defense Hud scale": 1.0
+      },
+      {
+        "Defense Hud enabled": true
+      },
+      {
+        "Defense Color": "#00FF00FF"
+      },
+      {
+        "EffectiveHealth Hud x": 10.0
+      },
+      {
+        "EffectiveHealth Hud y": 10.0
+      },
+      {
+        "EffectiveHealth Hud scale": 1.0
+      },
+      {
+        "EffectiveHealth Hud enabled": false
+      },
+      {
+        "EffectiveHealth Color": "#00AA00FF"
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Farm Keys",
+    "enabled": false,
+    "settings": [
+      {
+        "Block breaking": 0
+      },
+      {
+        "Jump": 0
+      },
+      {
+        "Previous Sensitivity": 100.0
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Pet Keybinds",
+    "enabled": false,
+    "settings": [
+      {
+        "Unequip Keybind": 0
+      },
+      {
+        "Next Page Keybind": 0
+      },
+      {
+        "Previous Page Keybind": 0
+      },
+      {
+        "Delay": 0.0
+      },
+      {
+        "Disable Unequip": false
+      },
+      {
+        "Pet 1": 2
+      },
+      {
+        "Pet 2": 3
+      },
+      {
+        "Pet 3": 4
+      },
+      {
+        "Pet 4": 5
+      },
+      {
+        "Pet 5": 6
+      },
+      {
+        "Pet 6": 7
+      },
+      {
+        "Pet 7": 8
+      },
+      {
+        "Pet 8": 9
+      },
+      {
+        "Pet 9": 10
+      },
+      {
+        "List": []
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Command Keybinds",
+    "enabled": false,
+    "settings": [
+      {
+        "Pets": 0
+      },
+      {
+        "Storage": 0
+      },
+      {
+        "Wardrobe": 0
+      },
+      {
+        "Equipment": 0
+      },
+      {
+        "Dungeon Hub": 0
+      }
+    ]
+  },
+  {
+    "name": "Spring Boots",
+    "enabled": false,
+    "settings": [
+      {
+        "Display x": 10.0
+      },
+      {
+        "Display y": 10.0
+      },
+      {
+        "Display scale": 1.0
+      },
+      {
+        "Display enabled": false
+      },
+      {
+        "Render Goal": true
+      },
+      {
+        "Goal Color": "#00FF00FF"
+      },
+      {
+        "Offset": 0.0
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Ability Timers",
+    "enabled": true,
+    "settings": [
+      {
+        "Wither Impact Hud x": 10.0
+      },
+      {
+        "Wither Impact Hud y": 10.0
+      },
+      {
+        "Wither Impact Hud scale": 1.0
+      },
+      {
+        "Wither Impact Hud enabled": false
+      },
+      {
+        "Compact Mode": true
+      },
+      {
+        "Hide When Ready": true
+      },
+      {
+        "Tactical Insertion Hud x": 895.0
+      },
+      {
+        "Tactical Insertion Hud y": 568.0
+      },
+      {
+        "Tactical Insertion Hud scale": 2.74999993853271
+      },
+      {
+        "Tactical Insertion Hud enabled": true
+      },
+      {
+        "Enrage Hud x": 893.0
+      },
+      {
+        "Enrage Hud y": 557.0
+      },
+      {
+        "Enrage Hud scale": 2.149999951943755
+      },
+      {
+        "Enrage Hud enabled": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Build Helper",
+    "enabled": true,
+    "settings": [
+      {
+        "Render on Ballista": false
+      },
+      {
+        "Unfinished Waypoints": true
+      },
+      {
+        "Fade Waypoints": true
+      },
+      {
+        "Build Helper Color": "#FFAA00FF"
+      },
+      {
+        "Build helper HUD x": 10.0
+      },
+      {
+        "Build helper HUD y": 10.0
+      },
+      {
+        "Build helper HUD scale": 1.0
+      },
+      {
+        "Build helper HUD enabled": false
+      },
+      {
+        "Stun Notification": true
+      },
+      {
+        "Stun Percent": 93.0
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Fresh Timer",
+    "enabled": true,
+    "settings": [
+      {
+        "Notify Fresh": true
+      },
+      {
+        "Highlight Fresh": true
+      },
+      {
+        "Highlight Fresh Color": "#FFFF55FF"
+      },
+      {
+        "Fresh Timer Color": "#FFAA00FF"
+      },
+      {
+        "Fresh timer HUD x": 10.0
+      },
+      {
+        "Fresh timer HUD y": 10.0
+      },
+      {
+        "Fresh timer HUD scale": 1.0
+      },
+      {
+        "Fresh timer HUD enabled": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Kuudra Display",
+    "enabled": true,
+    "settings": [
+      {
+        "Highlight Kuudra": true
+      },
+      {
+        "Kuudra Color": "#FF0000FF"
+      },
+      {
+        "Thickness": 3.0
+      },
+      {
+        "Kuudra Spawn Alert": true
+      },
+      {
+        "Kuudra HP": true
+      },
+      {
+        "Health Size": 0.30000000000000004
+      },
+      {
+        "Health Format": false
+      },
+      {
+        "Use Scaled": true
+      },
+      {
+        "Health Display x": 10.0
+      },
+      {
+        "Health Display y": 10.0
+      },
+      {
+        "Health Display scale": 1.0
+      },
+      {
+        "Health Display enabled": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Pre-Spot Alert",
+    "enabled": true,
+    "settings": [
+      {
+        "Show Crate Priority": false
+      },
+      {
+        "Title Time": 30.0
+      },
+      {
+        "Advanced Mode": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Pearl Waypoints",
+    "enabled": true,
+    "settings": [
+      {
+        "Hide Far Waypoints": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Remove Perks",
+    "enabled": true,
+    "settings": [
+      {
+        "Show Stun": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Supply Helper",
+    "enabled": true,
+    "settings": [
+      {
+        "Supplies Waypoints": true
+      },
+      {
+        "Supply Waypoint Color": "#FDDA0DFF"
+      },
+      {
+        "Supply Drop Waypoints": true
+      },
+      {
+        "Send Supply Time": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Team Highlight",
+    "enabled": true,
+    "settings": [
+      {
+        "Mode": "Outline"
+      },
+      {
+        "Line Width": 2.0000000298023224
+      },
+      {
+        "Style": "Filled"
+      },
+      {
+        "Show highlight": true
+      },
+      {
+        "Show name": true
+      },
+      {
+        "Depth check": false
+      },
+      {
+        "Outline Color": "#AA00AAFF"
+      },
+      {
+        "Name Color": "#FF55FFFF"
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Vanq Notifier",
+    "enabled": false,
+    "settings": [
+      {
+        "Play Sound": true
+      },
+      {
+        "Show Text": true
+      },
+      {
+        "All Chat": false
+      },
+      {
+        "Party Chat": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Kuudra Reminders",
+    "enabled": true,
+    "settings": [
+      {
+        "Display Text": true
+      },
+      {
+        "Play Sound": true
+      },
+      {
+        "Key Reminder": true
+      },
+      {
+        "Buy Upgrades": true
+      },
+      {
+        "Pick Up Supplies": true
+      },
+      {
+        "Build Ballista": true
+      },
+      {
+        "Fresh Tools": true
+      },
+      {
+        "Mana Drain": true
+      },
+      {
+        "Notify in Kuudra Only": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Kuudra Requeue",
+    "enabled": false,
+    "settings": [
+      {
+        "Delay": 10.0
+      },
+      {
+        "Disable Party Leave": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Simon Says",
+    "enabled": false,
+    "settings": [
+      {
+        "Style": "Filled"
+      },
+      {
+        "Line Width": 2.0000000298023224
+      },
+      {
+        "Depth check": false
+      },
+      {
+        "Clear After": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Arrows Device",
+    "enabled": false,
+    "settings": [
+      {
+        "Solver": true
+      },
+      {
+        "Marked Position": "#FF0000FF"
+      },
+      {
+        "Target Position": "#00FF00FF"
+      },
+      {
+        "Reset": 0
+      },
+      {
+        "Depth check": true
+      },
+      {
+        "Device complete alert": true
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Ether Warp Helper",
+    "enabled": true,
+    "settings": [
+      {
+        "Show Etherwarp Guess": true
+      },
+      {
+        "Color": "#00FFFF7E"
+      },
+      {
+        "Show when failed": false
+      },
+      {
+        "Wrong Color": "#FF00007F"
+      },
+      {
+        "Style": "Filled"
+      },
+      {
+        "Line Width": 1.0000000149011612
+      },
+      {
+        "Depth check": true
+      },
+      {
+        "Expand": 0.0
+      },
+      {
+        "Use Server Position": true
+      },
+      {
+        "Custom Sounds": true
+      },
+      {
+        "Sound": "note.pling"
+      },
+      {
+        "Custom Sound": "gui.button.press"
+      },
+      {
+        "Volume": 0.8499999810010195
+      },
+      {
+        "Pitch": 1.9999999552965164
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Camera",
+    "enabled": false,
+    "settings": [
+      {
+        "No Front Camera": false
+      },
+      {
+        "FOV": 120.0
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  },
+  {
+    "name": "Hide Players",
+    "enabled": false,
+    "settings": [
+      {
+        "Hide all": false
+      },
+      {
+        "distance": 3.0
+      },
+      {
+        "only at Devs": false
+      },
+      {
+        "Keybind": 0
+      }
+    ]
+  }
+]

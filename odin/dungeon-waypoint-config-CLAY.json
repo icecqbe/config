@@ -1,0 +1,827 @@
+{
+  "Temple": [
+    {
+      "x": 19.0,
+      "y": 77.0,
+      "z": 26.0,
+      "color": "#00FF00FF",
+      "filled": true,
+      "depth": true,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": -0.002,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Purple Flags": [
+    {
+      "x": 32.0,
+      "y": 67.0,
+      "z": 7.0,
+      "color": "#00FF00FF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0605,
+        "field_72338_b": -0.002,
+        "field_72339_c": 0.0605,
+        "field_72336_d": 0.9395,
+        "field_72337_e": 0.877,
+        "field_72334_f": 0.9395
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Pipes": [
+    {
+      "x": 53.0,
+      "y": 93.0,
+      "z": 15.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": -0.002,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 0.502,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Blood": [
+    {
+      "x": 243.0,
+      "y": 168.0,
+      "z": -190.0,
+      "color": "#00FF00FF",
+      "filled": true,
+      "depth": true,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": -0.002,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 83.0,
+      "y": 168.0,
+      "z": -126.0,
+      "color": "#00FF00FF",
+      "filled": true,
+      "depth": true,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": -0.002,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Leaves": [
+    {
+      "x": 14.0,
+      "y": 81.0,
+      "z": 27.0,
+      "color": "#00FF00FF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0604999999050051,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": 0.0604999999050051,
+        "field_72336_d": 0.9395000000949949,
+        "field_72337_e": 0.8770000000949949,
+        "field_72334_f": 0.9395000000949949
+      },
+      "title": "",
+      "secret": true,
+      "clicked": false
+    }
+  ],
+  "Sarcophagus": [
+    {
+      "x": 15.0,
+      "y": 69.0,
+      "z": 4.0,
+      "color": "#00FF00FF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0605,
+        "field_72338_b": -0.002,
+        "field_72339_c": 0.0605,
+        "field_72336_d": 0.9395,
+        "field_72337_e": 0.877,
+        "field_72334_f": 0.9395
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Mage": [
+    {
+      "x": 42.0,
+      "y": 62.0,
+      "z": 15.0,
+      "color": "#00FF00FF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0605,
+        "field_72338_b": -0.002,
+        "field_72339_c": 0.0605,
+        "field_72336_d": 0.9395,
+        "field_72337_e": 0.877,
+        "field_72334_f": 0.9395
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Melon": [
+    {
+      "x": 42.0,
+      "y": 84.0,
+      "z": 57.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": -0.002,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Redstone Crypt": [
+    {
+      "x": 9.0,
+      "y": 69.0,
+      "z": 3.0,
+      "color": "#00FF00FF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0605,
+        "field_72338_b": -0.002,
+        "field_72339_c": 0.0605,
+        "field_72336_d": 0.9395,
+        "field_72337_e": 0.877,
+        "field_72334_f": 0.9395
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Spikes": [],
+  "Waterfall": [
+    {
+      "x": 17.0,
+      "y": 68.0,
+      "z": 6.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": -0.002,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 16.0,
+      "y": 68.0,
+      "z": 6.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": -0.002,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 15.0,
+      "y": 68.0,
+      "z": 6.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": -0.002,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 28.0,
+      "y": 80.0,
+      "z": 7.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": -0.002,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 29.0,
+      "y": 80.0,
+      "z": 7.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": -0.002,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Small Waterfall": [
+    {
+      "x": 1.0,
+      "y": 76.0,
+      "z": 17.0,
+      "color": "#00AAAAFF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.0020000000949949026,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": -0.0020000000949949026,
+        "field_72336_d": 1.002000000094995,
+        "field_72337_e": 1.002000000094995,
+        "field_72334_f": 1.002000000094995
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 1.0,
+      "y": 78.0,
+      "z": 16.0,
+      "color": "#00AAAAFF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.0020000000949949026,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": -0.0020000000949949026,
+        "field_72336_d": 1.002000000094995,
+        "field_72337_e": 1.002000000094995,
+        "field_72334_f": 1.002000000094995
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Mossy": [
+    {
+      "x": 2.0,
+      "y": 69.0,
+      "z": 4.0,
+      "color": "#00FF00FF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0604999999050051,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": 0.0604999999050051,
+        "field_72336_d": 0.9395000000949949,
+        "field_72337_e": 0.8770000000949949,
+        "field_72334_f": 0.9395000000949949
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 63.0,
+      "y": 70.0,
+      "z": 29.0,
+      "color": "#FDDA0DFF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.3104999999050051,
+        "field_72338_b": 0.19800000288523734,
+        "field_72339_c": 0.6229999999050051,
+        "field_72336_d": 0.6895000000949949,
+        "field_72337_e": 0.8020000120159239,
+        "field_72334_f": 1.002000000094995
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 47.0,
+      "y": 89.0,
+      "z": 4.0,
+      "color": "#00FF00FF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0604999999050051,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": 0.0604999999050051,
+        "field_72336_d": 0.9395000000949949,
+        "field_72337_e": 0.8770000000949949,
+        "field_72334_f": 0.9395000000949949
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Spider": [
+    {
+      "x": 49.0,
+      "y": 83.0,
+      "z": 36.0,
+      "color": "#00AAAAFF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.0020000000949949026,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": -0.0020000000949949026,
+        "field_72336_d": 1.002000000094995,
+        "field_72337_e": 1.002000000094995,
+        "field_72334_f": 1.002000000094995
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Dino Site": [
+    {
+      "x": 25.0,
+      "y": 91.0,
+      "z": 36.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": 0.498,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 24.0,
+      "y": 91.0,
+      "z": 36.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": 0.498,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 23.0,
+      "y": 91.0,
+      "z": 36.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": 0.498,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 23.0,
+      "y": 90.0,
+      "z": 37.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": 0.498,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 24.0,
+      "y": 90.0,
+      "z": 37.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": 0.498,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 25.0,
+      "y": 90.0,
+      "z": 37.0,
+      "color": "#00AAAAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": 0.498,
+        "field_72339_c": -0.002,
+        "field_72336_d": 1.002,
+        "field_72337_e": 1.002,
+        "field_72334_f": 1.002
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Slabs": [
+    {
+      "x": 22.0,
+      "y": 85.0,
+      "z": 3.0,
+      "color": "#00FF00FF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0605,
+        "field_72338_b": -0.002,
+        "field_72339_c": 0.0605,
+        "field_72336_d": 1.002,
+        "field_72337_e": 0.877,
+        "field_72334_f": 0.9395
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 23.0,
+      "y": 85.0,
+      "z": 3.0,
+      "color": "#00FF00FF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.002,
+        "field_72338_b": -0.002,
+        "field_72339_c": 0.0605,
+        "field_72336_d": 0.9395,
+        "field_72337_e": 0.877,
+        "field_72334_f": 0.9395
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Multicolored": [
+    {
+      "x": 25.0,
+      "y": 70.0,
+      "z": 4.0,
+      "color": "#00FF00FF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0605,
+        "field_72338_b": -0.002,
+        "field_72339_c": 0.0605,
+        "field_72336_d": 0.9395,
+        "field_72337_e": 0.877,
+        "field_72334_f": 0.9395
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Grass Ruin": [
+    {
+      "x": 48.0,
+      "y": 81.0,
+      "z": 24.0,
+      "color": "#AA00AAFF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.248,
+        "field_72338_b": -0.002,
+        "field_72339_c": 0.248,
+        "field_72336_d": 0.752,
+        "field_72337_e": 0.502,
+        "field_72334_f": 0.752
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    },
+    {
+      "x": 11.0,
+      "y": 107.0,
+      "z": 10.0,
+      "color": "#00FF00FF",
+      "filled": true,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0605,
+        "field_72338_b": -0.002,
+        "field_72339_c": 0.0605,
+        "field_72336_d": 0.9395,
+        "field_72337_e": 0.877,
+        "field_72334_f": 0.9395
+      },
+      "title": "",
+      "secret": false,
+      "clicked": false
+    }
+  ],
+  "Museum": [],
+  "Silver Sword": [],
+  "Archway": [],
+  "Tic Tac Toe": [],
+  "New Trap": [],
+  "Altar": [],
+  "Pedestal": [],
+  "Old Trap": [],
+  "Pit": [
+    {
+      "x": 20.0,
+      "y": 91.0,
+      "z": 9.0,
+      "color": "#00FF00FF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0604999999050051,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": 0.0604999999050051,
+        "field_72336_d": 0.9395000000949949,
+        "field_72337_e": 0.8770000000949949,
+        "field_72334_f": 0.9395000000949949
+      },
+      "title": "",
+      "secret": true,
+      "clicked": false
+    }
+  ],
+  "Rails": [
+    {
+      "x": 12.0,
+      "y": 68.0,
+      "z": 15.0,
+      "color": "#00AAAAFF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.0020000000949949026,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": -0.0020000000949949026,
+        "field_72336_d": 1.002000000094995,
+        "field_72337_e": 1.002000000094995,
+        "field_72334_f": 1.002000000094995
+      },
+      "title": "",
+      "secret": true,
+      "clicked": false
+    },
+    {
+      "x": 12.0,
+      "y": 68.0,
+      "z": 16.0,
+      "color": "#00AAAAFF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.0020000000949949026,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": -0.0020000000949949026,
+        "field_72336_d": 1.002000000094995,
+        "field_72337_e": 1.002000000094995,
+        "field_72334_f": 1.002000000094995
+      },
+      "title": "",
+      "secret": true,
+      "clicked": false
+    },
+    {
+      "x": 11.0,
+      "y": 68.0,
+      "z": 15.0,
+      "color": "#00AAAAFF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.0020000000949949026,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": -0.0020000000949949026,
+        "field_72336_d": 1.002000000094995,
+        "field_72337_e": 1.002000000094995,
+        "field_72334_f": 1.002000000094995
+      },
+      "title": "",
+      "secret": true,
+      "clicked": false
+    }
+  ],
+  "Mural": [],
+  "Redstone Warrior": [],
+  "Buttons": [],
+  "Dueces": [],
+  "Bridges": [],
+  "Dip": [],
+  "Lower Blaze": [],
+  "Boulder": [],
+  "Ice Fill": [],
+  "Creeper Beams": [],
+  "Raccoon": [],
+  "Jumping Skulls": [],
+  "Dome": [],
+  "Painting": [],
+  "Crypt": [],
+  "Ritual": [
+    {
+      "x": 15.0,
+      "y": 80.0,
+      "z": 3.0,
+      "color": "#00FF00FF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.0604999999050051,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": 0.0604999999050051,
+        "field_72336_d": 0.9395000000949949,
+        "field_72337_e": 0.8770000000949949,
+        "field_72334_f": 0.9395000000949949
+      },
+      "title": "",
+      "secret": true,
+      "clicked": false
+    }
+  ],
+  "Perch": [],
+  "Supertall": [
+    {
+      "x": 12.0,
+      "y": 71.0,
+      "z": 5.0,
+      "color": "#00AAAAFF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": -0.0020000000949949026,
+        "field_72338_b": -0.0020000000949949026,
+        "field_72339_c": -0.0020000000949949026,
+        "field_72336_d": 1.002000000094995,
+        "field_72337_e": 1.002000000094995,
+        "field_72334_f": 1.002000000094995
+      },
+      "title": "",
+      "secret": true,
+      "clicked": false
+    }
+  ],
+  "Higher Blaze": [],
+  "Gravel": [],
+  "Granite": [],
+  "Flags": [],
+  "Andesite": [],
+  "Drop": [],
+  "Arrow Trap": [],
+  "Teleport Maze": [],
+  "Locked Away": [],
+  "Water": [
+    {
+      "x": 15.0,
+      "y": 70.0,
+      "z": 7.0,
+      "color": "#FDDA0DFF",
+      "filled": false,
+      "depth": false,
+      "aabb": {
+        "field_72340_a": 0.3104999999050051,
+        "field_72338_b": 0.19800000288523734,
+        "field_72339_c": -0.0020000000949949026,
+        "field_72336_d": 0.6895000000949949,
+        "field_72337_e": 0.8020000120159239,
+        "field_72334_f": 0.3770000000949949
+      },
+      "title": "",
+      "secret": true,
+      "clicked": false
+    }
+  ],
+  "uuughhhh idk what to call it": [],
+  "Blue Skulls": [],
+  "Atlas": [],
+  "Wizard": [],
+  "Well": [],
+  "Deathmite": []
+}
