@@ -1,0 +1,22 @@
+[
+    {
+        "message": "/patcher sendcoords",
+        "keyCode": 49
+    },
+    {
+        "message": "/od ep",
+        "keyCode": 34
+    },
+    {
+        "message": "/eq",
+        "keyCode": 35
+    },
+    {
+        "message": "/warp nucleus",
+        "keyCode": 83
+    },
+    {
+        "message": "/pets",
+        "keyCode": 44
+    }
+]
